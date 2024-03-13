@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@builder.io/dev-tools": "^0.2.32",
+    "@builder.io/react": "^3.2.6",
+    "@builder.io/sdk": "^2.2.2",
     "@hookform/resolvers": "^3.3.4",
     "@radix-ui/react-accordion": "^1.1.2",
     "@radix-ui/react-alert-dialog": "^1.0.5",
